@@ -24,4 +24,4 @@ After a brainstroming we will define exactly which tools we will use. Geemap, fo
 
 ## Deadline (expected)
 
-End of July
+##Mid-august 
