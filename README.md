@@ -1,6 +1,6 @@
 # Software Development Project
 
-##Link to the Heroku application: https://young-taiga-33690.herokuapp.com/
+Link to the Heroku application: https://young-taiga-33690.herokuapp.com/
 
 ## Description
 
